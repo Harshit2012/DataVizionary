@@ -14,6 +14,12 @@ DataVizionary converts .csv file into chart.
 - HTML
 - CSS
 - JS
+- Chart.js
+
+## How to use?
+1. Select your `.csv` file
+2. Click `Generate Graph` button
+3. Click `Download` button to download
 
 ## Preview
 CSV file:-
