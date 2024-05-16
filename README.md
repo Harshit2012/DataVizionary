@@ -1,6 +1,11 @@
 # DataVizionary
 DataVizionary converts .csv file into chart.
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Harshit2012/DataVizionary?tab=MIT-1-ov-file#readme)
+![GitHub Release](https://img.shields.io/github/v/release/harshit2012/DataVizionary)
+![Forks](https://img.shields.io/github/forks/harshit2012/DataVizionary)
+![Stars](https://img.shields.io/github/stars/harshit2012/DataVizionary)
+
 ## Features✨
 - Simple design
 - Easy to use
