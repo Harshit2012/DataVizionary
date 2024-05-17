@@ -15,6 +15,7 @@ DataVizionary converts .csv file into chart.
 - CSS
 - JS
 - Chart.js
+- Bootstrap
 
 ## How to use?
 1. Select your `.csv` file
